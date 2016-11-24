@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/cqabl18/workflow-gitflow.git
+
+git add oper1.txt
+git commit -m "create oper1.txt"
+git push -u origin master
